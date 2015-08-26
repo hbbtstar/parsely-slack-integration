@@ -8,6 +8,7 @@ https://yourslackteam.slack.com/services/new/incoming-webhook
 
 3. install requirements:
 > cd parsely-slack-integration
+>
 > pip install -r requirements.txt
 
 4. In config.py enter your webhook URL you received above, your Parse.ly apikey, shared secret, and channel you want to send the results to
