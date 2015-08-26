@@ -19,7 +19,10 @@ https://yourslackteam.slack.com/services/new/incoming-webhook
 
 ## Sample Commands
 > python parsely_slack.py realtime --mention bob alice --limit 10 --shares --time 1h
+
 Returns the top 10 posts in the last hour with shares and notifies bob and alice
 
 > python parsely_slack.py analytics --mention sue george david --limit 15 --shares --days 7
+
 Returns the top 15 posts over the past 7 days with shares and notifies sue, george, and david
+
