@@ -1,11 +1,9 @@
 # Install instructions
 
 1. Go to Slack and set up an incoming webhook integration:
-
 https://yourslackteam.slack.com/services/new/incoming-webhook
 
 2. Clone this repo with:
-
 > git clone git@github.com:hbbtstar/parsely-slack-integration.git
 
 3. install requirements:
